@@ -2,8 +2,7 @@
 
 Projeto **novo** feito com **Vite + React + TypeScript**, com autenticação e consumo da API local `servidor-crm`. Implementação baseada no enunciado *Prova prática P2 · CRM de clientes (17/11/2026)*.
 
-> **Link do repositório GitHub:** ADICIONAR_AQUI_O_LINK_DO_SEU_REPOSITORIO
->
+> **Link do repositório GitHub:** https://github.com/lettcmo03/nexo
 > Substitua o texto acima pelo link real depois de criar o repositório. Não há um repositório publicado automaticamente.
 
 ## Como executar
